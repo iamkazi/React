@@ -1,0 +1,8 @@
+Video 1
+
+- Install emmet plugin for HTML
+- Use CDN link of React
+- React vs ReactDom
+- const heading = React.createElement("h1", {},"Hello World from React!"); {} -> Attributes
+- React Create Element is an object
+- adding element to adjacent needs to be add in array [,]
